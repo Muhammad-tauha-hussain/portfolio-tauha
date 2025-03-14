@@ -72,7 +72,7 @@ summary::marker {
 }
 
 .panels .panel:nth-child(2) {
-    background: linear-gradient(45deg,  #6e57e0, #00c9ff);
+    background: linear-gradient(45deg, #6e57e0, #00c9ff);
 }
 
 .panels .panel:nth-child(3) {
@@ -80,15 +80,15 @@ summary::marker {
 }
 
 .panels .panel:nth-child(4) {
-    background: linear-gradient(45deg,  #6e57e0, #00c9ff);
+    background: linear-gradient(45deg, #6e57e0, #00c9ff);
 }
 
 .panels .panel:nth-child(5) {
-    background: linear-gradient(45deg,  #6e57e0, #00c9ff);
+    background: linear-gradient(45deg, #6e57e0, #00c9ff);
 }
 
 .panels .panel:nth-child(6) {
-    background: linear-gradient(45deg,  #6e57e0, #00c9ff);
+    background: linear-gradient(45deg, #6e57e0, #00c9ff);
 }
 
 .panels {
@@ -748,6 +748,7 @@ h3 {
     font-size: 7.6vw;
     opacity: .7;
 }
+
 .elem a {
     text-decoration: none;
     color: #fff;
@@ -1249,10 +1250,4 @@ footer {
         font-size: 24px;
     }
 }
-
-
-
-
-
-
 
