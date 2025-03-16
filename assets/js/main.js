@@ -353,7 +353,7 @@ window.addEventListener('load', function() {
     const typedTextElement = document.querySelector(".typedText");
     if (typeof Typed !== 'undefined' && typedTextElement) {
       new Typed(typedTextElement, {
-        strings: ["Frontend Developer", "Backend Developer", "MernStack Developer"],
+        strings: ["Frontend Developer", "MernStack Developer"],
         loop: true,
         typeSpeed: 100,
         backSpeed: 80,
